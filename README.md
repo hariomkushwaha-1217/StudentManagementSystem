@@ -64,7 +64,7 @@ DELETE /students/{id}   → Delete student
 ## ▶️ How to Run the Project
 
 1. Clone the repository  
-   git clone https://github.com/hariomkushwaha-1217/StudentManagementSystem-Task-2
+   git clone https://github.com/hariomkushwaha-1217/StudentManagementSystem
    
 3. Open the project in IntelliJ IDEA or Spring Tool Suite  
 
