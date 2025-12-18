@@ -64,17 +64,17 @@ DELETE /students/{id}   → Delete student
 ## ▶️ How to Run the Project
 
 1. Clone the repository  
-   git clone https://github.com/your-username/student-management-system.git  
+   git clone https://github.com/hariomkushwaha-1217/StudentManagementSystem-Task-2
+   
+3. Open the project in IntelliJ IDEA or Spring Tool Suite  
 
-2. Open the project in IntelliJ IDEA or Spring Tool Suite  
+4. Create a PostgreSQL database named `student_db`  
 
-3. Create a PostgreSQL database named `student_db`  
+5. Update database username and password in `application.properties`  
 
-4. Update database username and password in `application.properties`  
+6. Run `StudentManagementApplication.java`  
 
-5. Run `StudentManagementApplication.java`  
-
-6. Test APIs using Postman  
+7. Test APIs using Postman  
 
 ## 📌 Future Enhancements
 
